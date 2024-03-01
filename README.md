@@ -13,10 +13,13 @@ The Beyond Shutters Photography website is designed to showcase the photography 
 ### CSS Files:
 
 - **style.css**: Styling for layout, typography, and overall aesthetics.
+- **mouse.css**: Defines the styles for a mouse cursor icon, including its main body and a small tail. The use of CSS variables and pseudo-elements allows for customization and additional visual details.
 
 ### JavaScript File:
 
 - **index.js**: Provides interactivity features such as smooth scrolling and slideshow controls.
+- **bez.js**: Enhances jQuery animation capabilities by enabling the use of custom easing functions based on Bézier curves, providing smoother and more flexible animations.
+- **pace.js**: It is a lightweight JavaScript library that provides automatic progress bar loading. It monitors various sources of progress, such as AJAX requests, page load events, and element rendering, to dynamically update a progress bars on the webpage.
 
 ### Image Files:
 
