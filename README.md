@@ -1,5 +1,13 @@
 # Beyond Shutters Photography Website Documentation
 
+## Website link (hosted in github pages):
+
+https://musharraf-marikkar.github.io/Portfolio/
+
+## Github source code link:
+
+https://github.com/musharraf-marikkar/Portfolio.git
+
 ## Project Overview
 
 The Beyond Shutters Photography website is designed to showcase the photography portfolio of Musharraf Marikkar, highlighting various types of photoshoots and projects. The website aims to provide visitors with an immersive experience, allowing them to explore different photography categories and contact Musharraf Marikkar for inquiries.
